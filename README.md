@@ -3,10 +3,15 @@
 - 🌱 I’m currently studying 3rd year IT branch from TCET ...
 - 💞️ I’m looking to collaborate on web development projects...
 - 📫 How to reach me 
+- 
       contact-9511648698
+      
       email-rjha27404@gmail.com
+      
       resume: https://drive.google.com/file/d/1Kb4LuHr3k9LD5XpSFwPzBq6aQv5ba3Ne/view?usp=sharing
+      
       linkedin : https://www.linkedin.com/in/rjha27404/
+      
       leetcode : https://leetcode.com/rjha27404/
 ...
 
